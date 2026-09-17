@@ -1,4 +1,4 @@
-# Oi! Eu sou o Gabriel Santos 👋
+# Oi! Eu sou o Gabriel/Redd 👋
 
 ### Desenvolvimento de Software | JavaScript | Python
 
