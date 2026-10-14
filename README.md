@@ -16,6 +16,7 @@
 ### 📌 Projetos
 
 * 🤖 **Kaory AI** — Bot para Discord integrado com inteligência artificial
+* 📊 **ReddRepolens** - Site para análise de repositórios com integração ao Github
 * 🌐 Projetos de desenvolvimento web e automação
 
 ### Contato
