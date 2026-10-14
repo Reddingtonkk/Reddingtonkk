@@ -1,6 +1,6 @@
 # Oi! Eu sou o Gabriel/Redd 👋
 
-### Desenvolvimento de Software | JavaScript | Python
+### Desenvolvimento de Software | JavaScript | Python | Nodejs
 
 * 👨‍💻 Estagiário em Desenvolvimento de Software
 * 🎓 Análise e Desenvolvimento de Sistemas — Unicesumar
